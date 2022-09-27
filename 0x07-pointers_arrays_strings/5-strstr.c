@@ -3,7 +3,7 @@
 /**
  * *_strstr - description
  * @haystack: string
- *@ needle: pointer
+ * @needle: pointer
  * Return: pointer
  */
 char *_strstr(char *haystack, char *needle)
