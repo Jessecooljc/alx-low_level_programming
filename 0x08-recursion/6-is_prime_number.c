@@ -5,7 +5,7 @@
  * @n: int
  * Return: 0 or 1
  */
-int_is_prime_number(int n)
+int is_prime_number(int n)
 {
 	return (check_prime(n, 2));
 }
