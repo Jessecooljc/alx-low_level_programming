@@ -10,10 +10,10 @@ int_is_prime_number(int n)
 	return (check_prime(n, 2));
 }
 /**
- * check_prime - check all number < n if they can divide it
+ * check_prime - check all number < n it hey can divide it
  * @n: int
  * @resp: int
- * return: int
+ * Return: int
  */
 int check_prime(int n, int resp)
 {

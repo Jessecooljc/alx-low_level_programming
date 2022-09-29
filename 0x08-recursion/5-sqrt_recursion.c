@@ -2,7 +2,7 @@
 /**
  * _sqrt_recursion - find natural square root
  * @n: int
- * return: int
+ * Return: int
  */
 int _sqrt_recursion(int n)
 {
