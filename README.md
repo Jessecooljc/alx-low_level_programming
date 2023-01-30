@@ -32,4 +32,4 @@ working in the C language. I update this repo with my learning progresses with h
 * [0x15-file_io](0x15-file_io)
 
 ## Author
-+ [Jesse Oluwagbemi](linkedin.com/in/jesse-oluwagbemi-799658254)
++ [Jesse Oluwagbemi](https://www.linkedin.com/in/jesse-oluwagbemi-799658254)
